@@ -74,7 +74,7 @@
 
 ### 1. What would your proposed system do?
 
-> *Write your answer here.*
+> Our proposed system would create a site wherein the students and the PE Department Head can track the borrowing and the availability of sports equipment in real time. This means that the student and Sir Mancao will be able to schedule the use of sports equipment, create forms for scheduled borrowings, and check the state of each sports equipment before it will be used.
 
 <br>
 
@@ -82,8 +82,8 @@
 
 | User/Role | Possible Use |
 | --------- | ------------ |
-| 1.        |              |
-| 2.        |              |
+| 1. Student       | Answer Requisition Form, Check schedule for any borrowings, Check borrowed equipment’s status, Check the availability of sports equipment             |
+| 2. PE Department Head (Sir Mancao)       | Check schedule for any borrowings, Check borrowed equipment’s status, Check the availability of sports equipment             |
 
 ### 3. What are the essential features?
 
@@ -91,6 +91,7 @@
 
 | Feature | Purpose |
 | ------- | ------- |
-| 1.      |         |
-| 2.      |         |
-| 3.      |         |
+| 1. Inventory Tracker     | Allows students to check the availability of a certain sports equipment and its condition through online before requisitioning.        |
+| 2. Electronic Requisition Form | Allows students to fill out an online form with item details and submit online requests to borrow or return.        |
+| 3. Equipment Status Monitor | Makes it easy for the PE department head to track the equipments’ conditions and availability and approve the student’s requests.        |
+| 4. Equipment Scheduler | Lets students book the equipment in advance and track deadlines of return. |
