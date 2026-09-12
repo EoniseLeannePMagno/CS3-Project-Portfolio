@@ -47,10 +47,10 @@
 | Step | What happens? | Person/Role Involved |
 | ---- | ------------- | -------------------- |
 | 1    | The student goes to the designated area or person to check if the needed sports equipment is available. | Student |
-| 2    |               |                      |
-| 3    |               |                      |
-| 4    |               |                      |
-| 5    |               |                      |
+| 2    | The PE Department Head checks the available sports equipment and confirms whether the requested item can be borrowed.              | PE Department Head                     |
+| 3    | If the equipment is available, the student borrows it and uses it for the intended sports activity. | Student |
+| 4    | After use, the student returns the borrowed equipment back to the PE Department Head. | PE Department Head                     |
+| 5    | The PE Department Head checks returned               | PE Department Head                     |
 
 ---
 
