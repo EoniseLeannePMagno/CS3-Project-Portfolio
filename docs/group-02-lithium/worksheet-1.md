@@ -9,13 +9,13 @@
 | Information                | Details |
 | -------------------------- | ------- |
 | **Proposed Project Title** |         |
-| **Team Members**           | 1.      |
-|                            | 2.      |
-|                            | 3.      |
-|                            | 4.      |
-|                            | 5.      |
-|                            | 6.      |
-| **PSHS-DRC Area/Location** |         |
+| **Team Members**           | 1. Shania Eunice C. Año     |
+|                            | 2. Francheska Yuna V. Daquio     |
+|                            | 3. Excel Joe G. Davide     |
+|                            | 4. Kaelyn Anne D. Escaño     |
+|                            | 5. Vinz C. Labor     |
+|                            | 6. Eonise Leanne P. Magno     |
+| **PSHS-DRC Area/Location** | Outdoor Courts, Gym        |
 
 ---
 
@@ -23,13 +23,13 @@
 
 ### 1. What process did you observe?
 
-> *Write your answer here.*
+> The process we observed is the process of borrowing sports equipment.
 
 <br>
 
 ### 2. What is the purpose of this process?
 
-> *Write your answer here.*
+> The purpose of this process is to provide students in need of sports equipment, especially during months when KALASAG is close and district meets are ongoing.
 
 <br>
 
@@ -39,14 +39,19 @@
 
 | Person/Role | Responsibility in the Process |
 | ----------- | ----------------------------- |
-| 1.          |                               |
-| 2.          |                               |
+| 1. Sir Mancao         | 
+Checks the sports equipment if they are ready to use or are available.
+
+                              |
+| 2. Students/Athletes         | Files for request to use sports equipment                              |
 
 ### 4. What are the steps in the current process?
 
 | Step | What happens? | Person/Role Involved |
 | ---- | ------------- | -------------------- |
-| 1    |               |                      |
+| 1    | The student goes to the designated area or person to check if the needed sports equipment is available. 
+
+              |                      |
 | 2    |               |                      |
 | 3    |               |                      |
 | 4    |               |                      |
