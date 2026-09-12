@@ -39,19 +39,14 @@
 
 | Person/Role | Responsibility in the Process |
 | ----------- | ----------------------------- |
-| 1. Sir Mancao         | 
-Checks the sports equipment if they are ready to use or are available.
-
-                              |
+| 1. Sir Mancao         | Checks the sports equipment if they are ready to use or are available.
 | 2. Students/Athletes         | Files for request to use sports equipment                              |
 
 ### 4. What are the steps in the current process?
 
 | Step | What happens? | Person/Role Involved |
 | ---- | ------------- | -------------------- |
-| 1    | The student goes to the designated area or person to check if the needed sports equipment is available. 
-
-              |                      |
+| 1    |
 | 2    |               |                      |
 | 3    |               |                      |
 | 4    |               |                      |
