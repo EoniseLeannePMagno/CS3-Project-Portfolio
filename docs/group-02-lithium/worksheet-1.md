@@ -64,7 +64,7 @@
 
 ### 2. Which part of the process could be improved or automated?
 
-> *Write your answer here.*
+> The parts of the process that could be improved or automated are the checking of the equipments availabilities, the tracking of returns and instead of doing it physically we cant use this digital system instead. So students can check if an item is available or not without having to ask the person handling the equipment. Also the submission of requests, scheduling and the monitoring of the items can be automated through the online platform which makes it quicker.
 
 <br>
 
