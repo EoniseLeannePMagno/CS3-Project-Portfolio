@@ -58,7 +58,7 @@
 
 ### 1. What problems or difficulties did you observe?
 
-> *Write your answer here.*
+> The problems or difficulties that I observed is that borrowing sports equipment is done manually, making it difficult for us to know if the equipment is available, borrowed or returned. If we want to borrow sports equipment, we still need to ask the one who manages this equipment, which is really tiring since you still need to find him in his office or where he is staying because we are not sure if he is using his gadget or not and if we are lucky, we can just message him. This process takes a lot of time especially when it is during busy periods like during Kalasag and District Meets. There are also problems that might happen if the borrowing process stayed like this. For example, misplaced records, delayed returns, sometimes the overlapping of schedules because there is no proper schedule, and there is no proper monitoring of the condition of the equipment. Since there is no system that can fix these problems, monitoring the status and condition of the sports equipment becomes hard to do.
 
 <br>
 
