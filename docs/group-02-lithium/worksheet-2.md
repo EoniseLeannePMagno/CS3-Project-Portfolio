@@ -15,16 +15,11 @@ If you were going to create a program for this process, what things would the pr
 
 | No. | Object | Description |
 |:---:|---|---|
-| 1 | | |
+| 1 | hi| i|
 | 2 | | |
 | 3 | | |
 | 4 | | |
 | 5 | | |
-| 6 | | |
-| 7 | | |
-| 8 | | |
-| 9 | | |
-| 10 | | |
 
 ### Object Evaluation
 
