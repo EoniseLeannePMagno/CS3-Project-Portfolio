@@ -67,7 +67,7 @@ Not every object needs to become a class. Choose only the objects that are impor
 
 | No. | Class | What does it represent? |
 |:---:|---|---|
-| 1 | Xtudent | The person that will borrow equipment
+| 1 | Student | The person that will borrow equipment
 | 2 | Staff | The one that will handle the equipment |
 | 3 | Equipment | The item being borrowed by students |
 
@@ -79,16 +79,15 @@ Analyze the attributes and methods of each identified class.
 
 ### Class No. 1
 
-**Class Name:** __________________________________
+**Class Name:** Student
 
 **Purpose:**  
-__________________________________________________
-
+Represents the one who will borrow the sports equipment
 #### Attributes
 
 | Attribute | Description |
 |---|---|
-| | |
+| hi|hi |
 | | |
 | | |
 | | |
