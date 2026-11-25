@@ -82,51 +82,77 @@ Analyze the attributes and methods of each identified class.
 **Class Name:** Student
 
 **Purpose:**  
-Represents the one who will borrow the sports equipment
+Represents the one who will borrow the Sports Equipment
 #### Attributes
 
 | Attribute | Description |
 |---|---|
-| hi|hi |
-| | |
-| | |
-| | |
+| Name | Name of Student |
+| Grade And Section | Grade and Section of Student |
+| ID Number | Verifies if the Student is in PSHS-DRC or not |
+| Date of Borrow | Date when the Sports Equipment was borrowed |
+| Expected Date of Return | The expected date when the Sports Equipment will be returned |
+| Actual Date of Return | Actual date when the Sports Equipment was returned |
 
 #### Methods
 
 | Method Name | What does it do? |
 |---|---|
-| | |
-| | |
-| | |
-| | |
+| Display Equipment | Displays the available Sports Equipment |
+| Borrow Equipment | Displays notification of the borrowed Sports Equipment, Displays the date and time of borrowing |
+| Return Equipment | Displays notification of the due date for the Sports Equipment, Displays the actual date and time of return |
 
 ---
 
 ### Class No. 2
 
-**Class Name:** __________________________________
+**Class Name:** Staff
 
 **Purpose:**  
-__________________________________________________
+The person that handles equipment and monitors the Tracker
 
 #### Attributes
 
 | Attribute | Description |
 |---|---|
-| | |
-| | |
-| | |
-| | |
+| Name | Name of Staff Member |
+| ID Number | ID number of Staff Member |
+| Department | Department of Staff Member |
+| Position | Position of Staff Member |
 
 #### Methods
 
 | Method Name | What does it do? |
 |---|---|
-| | |
-| | |
-| | |
-| | |
+| Equipment Tracker | Displays the available Sports Equipment, the borrowed and the damaged |
+| Confirm of Borrowed Equipment | Allows them to borrow the available requested Sports Equipment, Determines the date and time of borrowing |
+| Notify Equipment Due Date | Gives notification of the due date for the Sports Equipment |
+| Confirmation Of Returned Equipment | Logs in the actual time and date of return, confirms the return of Sports Equipment |
+
+### Class No. 3
+
+**Class Name:** Equipment
+
+**Purpose:**  
+The Sports Equipment being borrowed
+
+#### Attributes
+
+| Attribute | Description |
+|---|---|
+| Name | Name of Sports Equipment |
+| Type | Type of Sports Equipment |
+| Sport | Designated Sport of Equipment |
+| Count | Amount of Sports Equipment available |
+| Status | Determines if the Sports Equipment is borrowed, available, or damaged |
+
+#### Methods
+
+| Method Name | What does it do? |
+|---|---|
+| Equipment Tracker | Displays the available, the borrowed, and the damaged Sports Equipment |
+| Update Status | Changes the status of the Sports Equipment |
+| Update Count | Updates the count of the Sports Equipment after borrowing |
 
 ---
 
