@@ -67,11 +67,9 @@ Not every object needs to become a class. Choose only the objects that are impor
 
 | No. | Class | What does it represent? |
 |:---:|---|---|
-| 1 | hi | hi
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| 1 | Xtudent | The person that will borrow equipment
+| 2 | Staff | The one that will handle the equipment |
+| 3 | Equipment | The item being borrowed by students |
 
 ---
 
