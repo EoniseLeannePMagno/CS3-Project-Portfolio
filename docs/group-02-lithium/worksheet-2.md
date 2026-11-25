@@ -67,7 +67,7 @@ Not every object needs to become a class. Choose only the objects that are impor
 
 | No. | Class | What does it represent? |
 |:---:|---|---|
-| 1 | | |
+| 1 | hi | hi
 | 2 | | |
 | 3 | | |
 | 4 | | |
